@@ -16,7 +16,8 @@ name()
 def full(first, second):
     print(f'Your name is {first} {second}') 
 
-full('Jay', 'Gokani')
+# Can give the key also to make it clearer
+full(first='Jay', second='Gokani')
 
 # Function argument with user inputs
 def full(first, second):
