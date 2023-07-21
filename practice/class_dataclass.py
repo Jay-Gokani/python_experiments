@@ -5,7 +5,6 @@ class Pokemon:
         self.number = number
 
 # A dataclass can be used...
-
 from dataclasses import dataclass
 
 @dataclass
@@ -15,5 +14,5 @@ class Pokemon:
 
 charmander = Pokemon('Charmander', 4)
 
-# Charmander
+# this prints 'Charmander'
 print(charmander.name)
