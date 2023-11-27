@@ -35,6 +35,8 @@ class Dog:
 # And object    
 milo = Dog('Milo', '2')
 
+print(milo.age)
+
 # Variable
 colour = 'blue'
 size = 'small'

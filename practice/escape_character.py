@@ -4,11 +4,11 @@
 # New line
 # Hello. 
 # Jay's hat is yellow.
-print('Hello. \nJay's hat is yellow.')
+print('Hello. \nJay\'s hat is yellow.')
 
 # Tab
 # Hello.  Jay's hat is yellow.
-print('Hello. \tJay's hat is yellow.')
+print('Hello. \tJay\'s hat is yellow.')
 
 # I'm doing fine
 print('I\'m doing fine')

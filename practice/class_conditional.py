@@ -3,11 +3,11 @@ class Animal:
         self.colour = colour
         self.sub_colour = sub_colour
 
-dog = Animal('grey', True)
+dog = Animal('brown', True)
 
 if dog.colour == 'brown':
     print('Dog is brown')
     if dog.sub_colour == True:
         print('Dog also has another colour')
 else:
-    print('Dog is invisible')
+    print('Dog colour unknown')

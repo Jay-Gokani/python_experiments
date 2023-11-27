@@ -25,7 +25,7 @@ while True:
         print('Welcome, Joe...')
         break
 
-# Exit before 2 is reached
+# Exit programme before 2 is reached
 import sys
 
 tickets = [1, 2, 3]
